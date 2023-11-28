@@ -63,7 +63,9 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
    18. IFERROR
       - Problem: Under Profit Margin column where profit is divided by revenue, some rows have 'NA' which gives error sign
       - Solution:
-          -To use IFERROR, in the cell, type =IFERROR(put the cells you want to divde and put coma. After coma, type inside double quatation marks "NA". For example, the formula would be =IFERROR(M4/N4,"NA")and hit enter.
+          -In the cell, type =IFERROR(put the cells you want to divde and put coma.
+          - After coma, type inside double quatation marks "NA".
+          - For example, the formula would be =IFERROR(M4/N4,"NA")and hit enter.
    20. Formatting
    21. Gridlines
 
