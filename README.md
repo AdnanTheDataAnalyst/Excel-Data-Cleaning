@@ -25,7 +25,7 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
            - To make changes on all rows in the same column, double click to drag down all the way to the buttom.
            - Before you delete the old column
                 - First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
-                - Go to paste and choose paste it as a value
+                - Go to paste and choose paste it as a value (or Use this ShortCut Alt + H + V + V)
    8. Trim & Proper
    9. Text to Columns
    10. Removing Duplicates
