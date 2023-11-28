@@ -17,16 +17,16 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
            - Remove unnessacay info within parathesis by selection the whole column and then going to Find & Select and choosing Replace tool (or Use this ShortCut CTRL + H).
            - To remove anything with the parathensis, type (*)
            - Hith Replace All. Hit ok, then hit close
-   6. Lower & Upper
-      - Problem: All text is Upper case which makes it hard to read
+   6. Lower
+      - Problem: All text is Uppercase which makes it hard to read
       - Solution:
-           - Create new column by hitiing CTRL + Shift + Plus
+           - Create new column by hitiing CTRL  Shift Plus
            - Use this function '=LOWER', Then click on the cell you want to convert
            - To make changes on all rows in the same column, double click to drag down all the way to the buttom.
            - Before you delete the old column
                 - First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
-                - Go to paste and choose paste it as a value (or Use this ShortCut Alt + H + V + V)
-                - Delete the colunm that you do not want or the old column by hitting CTRL -
+                - Go to paste and choose paste it as a value (or Use this ShortCut Alt  H  V  V)
+                - Delete the colunm that you do not want or the old column by hitting CTRL Minus
    8. Trim & Proper
    9. Text to Columns
    10. Removing Duplicates
