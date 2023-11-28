@@ -7,67 +7,83 @@
 ## Excel Skills at a Glance:
 
 ### Data Cleaning and Transformation:
-This is a raw dataset that has several errors, to a clean dataset that I need to present to my team. For this, I use the following steps such as text to columns and remove dupilcates, and several formulas such as the trim, proper, lower,  iferror and more. 
-   1. Autofit Rows and Columns
-      - Problem: Long rows
-      - Solution: Hit CTR + A, Go to Format and hit Autofit Row Height (or Use this ShortCut Alt + H + O + I) and Auto Fit Column Width (or Use this ShortCut Alt + H + O + 
-   3. Find & Replace
-      - Problem: Unnesscssay Info
-      - Solution:
-           - Remove unnessacay info within parathesis by selection the whole column and then going to Find & Select and choosing Replace tool (or Use this ShortCut CTRL + H).
-           - To remove anything with the parathensis, type (*)
-           - Hith Replace All. Hit ok, then hit close
-   6. Lower
-      - Problem: All text is Uppercase which makes it hard to read
-      - Solution:
-           - Create new column by hitiing CTRL  Shift Plus
-           - Use this function '=LOWER', Then click on the cell you want to convert
-           - To make changes on all rows in the same column, double click to drag down all the way to the buttom.
-           - Before you delete the old column
-                - First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
-                - Go to paste and choose paste it as a value (or Use this ShortCut Alt  H  V  V)
-                - Delete the colunm that you do not want or the old column by hitting CTRL Minus
-   8. Trim & Proper
-      - Problem: Odd spacing and capitalization
-      - Solution:
-        - Create new column by hitiing CTRL  Shift Plus
-        - To remove spacing, type this function '=TRIM' in the cell
-        - To make changes on all rows in the same column, double click to drag down all the way to the buttom.
-        - To remove random capitalization, type this function '=PROPER' in the cell
-        - OR use this function together '=TRIM(PROPER(Click on the cell you want to change)'
-        - Before you delete the old column
-                - First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
-                - Go to paste and choose paste it as a value (or Use this ShortCut Alt  H  V  V)
-                - Delete the colunm that you do not want or the old column by hitting CTRL Minus
-   10. Text to Columns
-       -Problem: Too many info in one column. Both the department and the state info are in one column.
-       - Solution: Separate departmeninfo from region: 
-            - Create new column by hitiing CTRL  Shift Plus and name it Region
-            - Click on the comlumn you converted and click CTRL Shift Down to select all rows
-            - Go to Data, choose Text to Columns
-            - Click Next
-            - Click inside the box for Tabs and Other and put underscore'-' in Other
-            - Make sure the destination is correct
-            - Then click Ok
-   14. Removing Duplicates
-       -Problem: Too much duplicate info
-       - To remove duplicate values, CTRL A
-       - Go to Data, choose Remove Duplicates and then hit ok
-   16. Filling Empty Cells
-       - Problem: Blank rows
-       - Solution:
-       - Select the whole table by hitting CTRL A
-       - Under Home, go to Find & Select and choose "Go to Special"
-       - Choose Blanks and hit ok
-       - Then hit on any empty cell and type 'NA' and hit CTRL ENTER
-   18. IFERROR
-       - Problem: Under Profit Margin column where profit is divided by revenue, some rows have 'NA' which gives error sign.
-       - Solution:
-          - In the cell, type =IFERROR(put the cells you want to divde and put coma.
-          - After coma, type inside double quatation marks "NA".
-          - For example, the formula would be =IFERROR(M4/N4,"NA")and hit enter.
-   20. Formatting
-   21. Gridlines
+
+This dataset started with numerous errors, necessitating a transformation into a clean format for presentation to my team. The following steps were undertaken, each addressing specific issues and culminating in a refined dataset:
+
+#### 1. Autofit Rows and Columns
+   - **Problem:** Long rows
+   - **Solution:** 
+     - Selected all (CTRL + A), went to Format, and chose Autofit Row Height (Alt + H + O + I) for rows and Autofit Column Width (Alt + H + O + C) for columns.
+   - **Result:** Resolved long rows, significantly enhancing overall readability.
+
+#### 3. Find & Replace
+   - **Problem:** Unnecessary Info
+   - **Solution:**
+     - Removed unnecessary info within parentheses by selecting the whole column, using Find & Select, and employing the Replace tool (CTRL + H).
+     - Typed (*) to remove anything within parentheses, clicked Replace All, then closed.
+   - **Result:** Enhanced data clarity by eliminating unnecessary information.
+
+#### 6. Lower
+   - **Problem:** All text is Uppercase, making it hard to read
+   - **Solution:**
+     - Created a new column (CTRL + Shift + Plus) and used '=LOWER' to convert text to lowercase.
+     - Before deleting the old column:
+       - Copied the converted column (CTRL + Shift + Down, then CTRL + C).
+       - Pasted as Values (Alt + H + V + V).
+       - Deleted the old column (CTRL + Minus).
+   - **Result:** Improved readability by transforming all text to lowercase.
+
+#### 8. Trim & Proper
+   - **Problem:** Odd spacing and capitalization
+   - **Solution:**
+     - Created a new column (CTRL + Shift + Plus).
+     - Used '=TRIM' to remove spacing and '=PROPER' to address random capitalization.
+     - Alternatively, used '=TRIM(PROPER(Click on the cell you want to change))'.
+     - Before deleting the old column:
+       - Copied the converted column (CTRL + Shift + Down, then CTRL + C).
+       - Pasted as Values (Alt + H + V + V).
+       - Deleted the old column (CTRL + Minus).
+   - **Result:** Ensured uniformity and coherence in the dataset.
+
+#### 10. Text to Columns
+   - **Problem:** Too much info in one column (department and state).
+   - **Solution:**
+     - Created a new column (CTRL + Shift + Plus) named Region.
+     - Used Text to Columns to separate department and state information.
+   - **Result:** Enhanced data organization by splitting information into distinct columns.
+
+#### 14. Removing Duplicates
+   - **Problem:** Too many duplicate values
+   - **Solution:**
+     - Removed duplicate values by selecting all (CTRL + A) and using Remove Duplicates.
+   - **Result:** Streamlined the dataset by mitigating redundancy.
+
+#### 16. Filling Empty Cells
+   - **Problem:** Blank rows
+   - **Solution:**
+     - Selected the entire table (CTRL + A).
+     - Used "Go to Special" to select blanks and filled them with 'NA' (CTRL + ENTER).
+   - **Result:** Alleviated blank rows, ensuring data completeness.
+
+#### 18. IFERROR
+   - **Problem:** 'NA' errors in the Profit Margin column.
+   - **Solution:**
+     - Used '=IFERROR' to handle 'NA' errors in the Profit Margin column.
+   - **Result:** Prevented disruptions in calculations caused by 'NA' errors.
+
+#### 20. Formatting
+   - **Format Headers and Rows:**
+     - Highlighted headers (CTRL + SHIFT + Right) and made them bold (CTRL + B).
+     - Changed colors using theme colors under Home.
+   - **Result:** Enhanced visual appeal for improved presentation.
+
+#### 22. Gridlines
+   - **Problem:** Distracting grid lines
+   - **Solution:**
+     - Unchecked Gridlines in View (or Alt + W + V + G).
+   - **Result:** Reduced distraction by hiding grid lines, improving focus on the dataset's content.
+
+Finally, this comprehensive data cleaning and transformation process resulted in a polished dataset, making it more presentable, user-friendly, and conducive to effective analysis by the team.
 
 1. **Data Used:** Sales and inventory records
 2. **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
