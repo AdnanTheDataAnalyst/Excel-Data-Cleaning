@@ -6,7 +6,15 @@
 
 ## Excel Skills at a Glance:
 
-Certainly! Here's an extended version with information on downloading data for each Excel skill:
+### Data Cleaning and Transformation:
+1. **Data Used:** Sales and inventory records
+2. **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
+3. **Solution:**
+   - Downloaded raw sales and inventory records from the company's database.
+   - Applied text-to-columns to standardize formats (e.g., dates, text).
+   - Utilized find-and-replace functions to correct common data entry errors.
+   - Filled missing values using appropriate methods (e.g., average, interpolation) for a cleaner dataset.
+
 
 ### Data Wizardry:
 1. **Data Used:** Customer transaction records
@@ -52,15 +60,6 @@ Certainly! Here's an extended version with information on downloading data for e
    - Applied Solver tool to the financial model.
    - Defined optimization objectives, constraints, and decision variables.
    - Solver iteratively adjusted variables to achieve the optimal resource allocation, maximizing efficiency and minimizing costs.
-
-### Data Cleaning and Transformation:
-1. **Data Used:** Sales and inventory records
-2. **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
-3. **Solution:**
-   - Downloaded raw sales and inventory records from the company's database.
-   - Applied text-to-columns to standardize formats (e.g., dates, text).
-   - Utilized find-and-replace functions to correct common data entry errors.
-   - Filled missing values using appropriate methods (e.g., average, interpolation) for a cleaner dataset.
 
 ### Formulas and Functions:
 1. **Data Used:** Budget and expenditure data
