@@ -26,7 +26,7 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
            - Before you delete the old column
                 - First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
                 - Go to paste and choose paste it as a value (or Use this ShortCut Alt + H + V + V)
-                - Delete the colunm that you do not want by hitting CTRL -
+                - Delete the colunm that you do not want or the old column by hitting CTRL -
    8. Trim & Proper
    9. Text to Columns
    10. Removing Duplicates
