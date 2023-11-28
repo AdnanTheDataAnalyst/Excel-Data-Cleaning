@@ -6,91 +6,148 @@
 
 ## Excel Skills at a Glance:
 
-Certainly! Let's integrate details about the data used, the problem addressed, and how it was resolved for each Excel skill:
+Certainly! Here's an extended version with information on downloading data for each Excel skill:
 
-### Welcome!
+### Data Wizardry:
+1. **Data Used:** Customer transaction records
+2. **Problem:** Duplicates in the dataset leading to inaccurate customer profiles.
+3. **Solution:**
+   - Downloaded raw customer transaction data from the CRM system.
+   - Identified duplicate entries using conditional formatting based on key attributes (e.g., customer ID).
+   - Created a new, clean dataset by removing duplicate entries.
+   - Ensured accuracy in customer analysis by working with the cleaned dataset.
 
-👋 Hello there! Welcome to my corner of the digital world. I'm Adnan, and I'm thrilled to have you here.
+### Formula Maestro:
+1. **Data Used:** Sales and revenue data
+2. **Problem:** Need for a dynamic way to calculate profit margins based on changing costs.
+3. **Solution:**
+   - Downloaded raw sales and cost data from the accounting system.
+   - Developed dynamic formulas incorporating variables for revenue and cost.
+   - Implemented IF statements to handle varying cost scenarios.
+   - Achieved real-time profit margin calculations as costs fluctuated.
 
-🔍 As a dedicated data analyst, I've honed my skills in the art of deciphering the language of numbers and translating raw data into meaningful insights. One of my key strengths lies in my proficiency with Microsoft Excel, a tool I consider my data analysis companion.
+### PivotTable Prodigy:
+1. **Data Used:** Monthly sales data by product category
+2. **Problem:** Cumbersome raw data requiring quick summarization and trend identification.
+3. **Solution:**
+   - Downloaded monthly sales data from the company's database.
+   - Created PivotTables for each product category, summarizing sales data.
+   - Grouped data by month for trend analysis.
+   - Facilitated better decision-making through visually clear and concise summaries.
 
-## Excel Skills at a Glance:
+### Visualization Virtuoso:
+1. **Data Used:** Marketing campaign performance metrics
+2. **Problem:** Communicating campaign success to non-technical stakeholders.
+3. **Solution:**
+   - Downloaded marketing campaign performance metrics from analytics platforms.
+   - Utilized Excel's charting capabilities to create visually appealing charts.
+   - Selected appropriate chart types (e.g., bar charts, pie charts) for different metrics.
+   - Added data labels and annotations to enhance communication.
 
-### Data Cleaning and Transformation
-   - **Data Used:** Sales and inventory records
-   - **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
-   - **Solution:** Applied text-to-columns and find-and-replace functions to standardize formats and filled missing values for a cleaner dataset.
+### Problem-Solving with Excel:
+1. **Data Used:** Complex financial datasets
+2. **Problem:** Optimization challenge in resource allocation.
+3. **Solution:**
+   - Downloaded raw financial datasets from accounting and project management systems.
+   - Applied Solver tool to the financial model.
+   - Defined optimization objectives, constraints, and decision variables.
+   - Solver iteratively adjusted variables to achieve the optimal resource allocation, maximizing efficiency and minimizing costs.
 
-### Formulas and Functions 
-   - **Data Used:** Budget and expenditure data
-   - **Problem:** Need for automated calculations of variance and percentage change.
-   - **Solution:** Implemented IF statements and nested functions to automate variance calculations, providing instant insights into budget performance.
+### Data Cleaning and Transformation:
+1. **Data Used:** Sales and inventory records
+2. **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
+3. **Solution:**
+   - Downloaded raw sales and inventory records from the company's database.
+   - Applied text-to-columns to standardize formats (e.g., dates, text).
+   - Utilized find-and-replace functions to correct common data entry errors.
+   - Filled missing values using appropriate methods (e.g., average, interpolation) for a cleaner dataset.
 
-### PivotTables
-   - **Data Used:** Customer feedback survey responses
-   - **Problem:** Large dataset making it challenging to extract meaningful insights.
-   - **Solution:** Created PivotTables to summarize feedback by category, enabling a quick overview of strengths and areas for improvement.
+### Formulas and Functions:
+1. **Data Used:** Budget and expenditure data
+2. **Problem:** Need for automated calculations of variance and percentage change.
+3. **Solution:**
+   - Downloaded budgeted and actual expenditure data from financial systems.
+   - Implemented IF statements to detect variances between budgeted and actual values.
+   - Utilized nested functions to calculate percentage changes.
+   - Achieved real-time insights into budget performance with automated formulas.
 
-### Data Analysis with Charts
-   - **Data Used:** Monthly sales figures
-   - **Problem:** Communicating sales trends to the sales team.
-   - **Solution:** Developed line charts with trendlines and annotations, facilitating clear communication of sales performance over time.
+### PivotTables:
+1. **Data Used:** Customer feedback survey responses
+2. **Problem:** Large dataset making it challenging to extract meaningful insights.
+3. **Solution:**
+   - Downloaded raw survey response data from the feedback collection platform.
+   - Created PivotTables to summarize feedback by category (e.g., product features, customer service).
+   - Filtered and sorted data within PivotTables for targeted analysis.
+   - Extracted actionable insights by leveraging PivotTable functionalities.
 
-### Conditional Formatting
-   - **Data Used:** Project timeline data
-   - **Problem:** Identifying critical milestones and deadlines.
-   - **Solution:** Applied conditional formatting to highlight critical dates, improving project timeline visibility.
+### Data Analysis with Charts:
+1. **Data Used:** Monthly sales figures
+2. **Problem:** Communicating sales trends to the sales team.
+3. **Solution:**
+   - Downloaded monthly sales figures from the company's sales database.
+   - Developed line charts with trendlines to visualize sales trends.
+   - Added annotations to highlight significant events or milestones.
+   - Improved communication of sales performance over time through effective charting.
 
-### Data Validation
-   - **Data Used:** Employee data for training programs
-   - **Problem:** Ensuring accurate data entry for employee training records.
-   - **Solution:** Set up dropdown lists and custom validation rules to enforce accurate and consistent data entry.
+### Conditional Formatting:
+1. **Data Used:** Project timeline data
+2. **Problem:** Identifying critical milestones and deadlines.
+3. **Solution:**
+   - Downloaded project timeline data from project management software.
+   - Applied conditional formatting to highlight critical dates.
+   - Utilized color scales for visualizing project progress.
+   - Improved project timeline visibility through strategic application of formatting rules.
 
-### Named Ranges
-   - **Data Used:** Financial forecasting data
-   - **Problem:** Streamlining complex formulas with large data ranges.
-   - **Solution:** Created named ranges for key variables, simplifying formula writing and improving spreadsheet readability.
+### Data Validation:
+1. **Data Used:** Employee data for training programs
+2. **Problem:** Ensuring accurate data entry for employee training records.
+3. **Solution:**
+   - Downloaded employee data from the HR system for training programs.
+   - Set up dropdown lists for standardized data entry.
+   - Defined custom validation rules to prevent errors (e.g., valid date ranges, required fields).
+   - Enhanced accuracy and consistency in employee training records.
 
-### Advanced Filtering
-   - **Data Used:** Product inventory data
-   - **Problem:** Extracting specific product categories and analyzing inventory levels.
-   - **Solution:** Utilized advanced filter options to quickly extract and analyze data for specific product categories.
+### Named Ranges:
+1. **Data Used:** Financial forecasting data
+2. **Problem:** Streamlining complex formulas with large data ranges.
+3. **Solution:**
+   - Downloaded financial forecasting data from forecasting tools.
+   - Created named ranges for key variables in the financial model.
+   - Used named ranges in formulas, simplifying formula writing.
+   - Improved spreadsheet readability and maintenance through structured naming conventions.
 
-### Power Query (Get & Transform Data) 
-   - **Data Used:** External sales data from multiple sources
-   - **Problem:** Merging and cleaning diverse datasets for comprehensive analysis.
-   - **Solution:** Leveraged Power Query to import, transform, and merge data, ensuring a clean and unified dataset for analysis.
+### Advanced Filtering:
+1. **Data Used:** Product inventory data
+2. **Problem:** Extracting specific product categories and analyzing inventory levels.
+3. **Solution:**
+   - Downloaded product inventory data from the company's inventory management system.
+   - Applied advanced filter options to extract data for specific product categories.
+   - Utilized complex criteria for filtering by attributes such as product type, quantity, and demand.
+   - Efficiently extracted and analyzed targeted data for inventory management.
 
-### Analysis ToolPak
-    - **Data Used:** Survey response data for statistical analysis
-    - **Problem:** Conducting advanced statistical analyses without programming.
-    - **Solution:** Enabled Analysis ToolPak to perform statistical functions, gaining valuable insights from survey responses.
+### Power Query (Get & Transform Data):
+1. **Data Used:** External sales data from multiple sources
+2. **Problem:** Merging and cleaning diverse datasets for comprehensive analysis.
+3. **Solution:**
+   - Downloaded sales data from various external sources.
+   - Imported data into Power Query.
+   - Merged and appended queries to create a unified dataset.
+   - Cleaned and shaped data using Power Query Editor, ensuring consistency and accuracy.
 
-### Scenario Manager
-    - **Data Used:** Financial projections data
-    - **Problem:** Evaluating various financial scenarios for decision-making.
-    - **Solution:** Utilized Scenario Manager to model and compare multiple financial scenarios, aiding in strategic decision-making.
+### Analysis ToolPak:
+1. **Data Used:** Survey response data for statistical analysis
+2. **Problem:** Conducting advanced statistical analyses without programming.
+3. **Solution:**
+   - Downloaded survey response data from survey platforms.
+   - Enabled Analysis ToolPak to access additional statistical functions in Excel.
+   - Applied statistical tests (e.g., t-tests, ANOVA) to gain insights from survey responses.
+   - Conducted comprehensive statistical analysis without the need for extensive coding.
 
-### Solver Add-In
-    - **Data Used:** Resource allocation and project scheduling data
-    - **Problem:** Optimizing resource allocation for project efficiency.
-    - **Solution:** Applied Solver to find the optimal resource allocation, maximizing project efficiency and minimizing costs.
-
-### Keyboard Shortcuts
-    - **Problem:** Streamlining workflow for efficiency.
-    - **Solution:** Incorporated common keyboard shortcuts to expedite tasks and improve overall workflow efficiency.
-
-### Data Tables
-    - **Data Used:** Product pricing and sales data
-    - **Problem:** Conducting what-if analysis for pricing strategies.
-    - **Solution:** Utilized Data Tables to model various pricing scenarios, enabling informed decision-making.
-
-### Data Visualization
-    - **Data Used:** Social media engagement metrics
-    - **Problem:** Presenting engagement data in an easily digestible format.
-    - **Solution:** Created dynamic dashboards using Excel features to visualize social media engagement metrics, improving data communication.
-
-### Excel Tables (ListObjects)
-    - **Data Used:** Project task list and completion data
-    - **Problem:** Managing and referencing dynamic data ranges efficiently.
-    - **Solution:** Converted project task lists into Excel Tables (ListObjects) for dynamic referencing, simplifying formula creation and maintenance.
+### Scenario Manager:
+1. **Data Used:** Financial projections data
+2. **Problem:** Evaluating various financial scenarios for decision-making.
+3. **Solution:**
+   - Downloaded financial projections data from the financial planning tool.
+   - Utilized Scenario Manager to create and manage multiple scenarios.
+   - Defined input values and associated scenarios for what-if analysis.
+   - Compared outcomes and made informed decisions based on different
