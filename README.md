@@ -53,7 +53,7 @@
 ### Analysis ToolPak
     - Enabling and using Excel's Analysis ToolPak for advanced statistical functions
 
-### Scenario Manager## 
+### Scenario Manager
     - Creating and managing scenarios for what-if analysis
 
 ### Solver Add-In
