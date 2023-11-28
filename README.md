@@ -1,24 +1,11 @@
-### Welcome!
+#### Welcome!
 
 👋 Hello there! Welcome to my corner of the digital world. I'm Adnan, and I'm thrilled to have you here.
 
 🔍 As a dedicated data analyst, I've honed my skills in the art of deciphering the language of numbers and translating raw data into meaningful insights. One of my key strengths lies in my proficiency with Microsoft Excel, a tool I consider my data analysis companion.
 
-## Excel Skills at a Glance:**
-## Data Wizardry:** I excel in cleaning and transforming data, ensuring it's not just numbers but a narrative waiting to be uncovered.
-## Formula Maestro:** Crafting intricate formulas and utilizing functions like VLOOKUP, INDEX, MATCH is my forte, turning data into actionable intelligence.
-## PivotTable Prodigy:** I bring data to life through PivotTables, unraveling patterns and trends to support informed decision-making.
-## Visualization Virtuoso:** With a keen eye for detail, I use Excel's charting capabilities to turn complex datasets into visual stories.
-## Problem-Solving with Excel:** From advanced analysis techniques to Solver wizardry, I thrive on tackling complex challenges head-on.
+### Excel Skills at a Glance:
 
-📊 Whether it's creating dynamic dashboards, delving into intricate data structures, or simply enjoying the beauty of a perfectly crafted formula, Excel is my canvas for transforming information into knowledge.
-
-I invite you to explore the projects and experiences I've shared here, where Excel is not just a tool but a key player in unraveling the stories hidden within the data.
-
-Thank you for stopping by, and feel free to reach out if you have any questions or if there's a data puzzle waiting to be solved!
-
-
- 
 ## Data Cleaning and Transformation
    - Removing duplicates
    - Filtering and sorting data
