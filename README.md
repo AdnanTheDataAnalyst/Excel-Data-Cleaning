@@ -7,6 +7,18 @@
 ## Excel Skills at a Glance:
 
 ### Data Cleaning and Transformation:
+This is a raw dataset that has several errors, to a clean dataset that I need to present to my team. For this, I use the following steps such as text to columns and remove dupilcates, and several formulas such as the trim, proper, lower,  iferror and more. 
+   1. Autofit Rows and Columns
+   2. Find & Replace
+   3. Lower & Upper
+   4. Trim & Proper
+   5. Text to Columns
+   6. Removing Duplicates
+   7. Filling Empty Cells
+   8. IFERROR
+   9. Formatting
+   10. Gridlines
+
 1. **Data Used:** Sales and inventory records
 2. **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
 3. **Solution:**
