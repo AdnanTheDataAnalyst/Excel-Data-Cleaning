@@ -14,9 +14,9 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
    3. Find & Replace
       - Problem: Unnesscssay Info
       - Solution:
-      -    Remove unnessacay info within parathesis by selection the whole column and then going to Find & Select and choosing Replace tool (or Use this ShortCut CTRL + H).
-      -    To remove anything with the parathensis, type (*)
-      -    Hith Replace All. Hit ok, then hit close
+           - Remove unnessacay info within parathesis by selection the whole column and then going to Find & Select and choosing Replace tool (or Use this ShortCut CTRL + H).
+           - To remove anything with the parathensis, type (*)
+           - Hith Replace All. Hit ok, then hit close
    6. Lower & Upper
    7. Trim & Proper
    8. Text to Columns
