@@ -23,7 +23,7 @@ This dataset started with numerous errors, necessitating a transformation into a
      - Typed (*) to remove anything within parentheses, clicked Replace All, then closed.
    - **Result:** Enhanced data clarity by eliminating unnecessary information.
 
-#### 6. Lower
+#### 4. Lower
    - **Problem:** All text is Uppercase, making it hard to read
    - **Solution:**
      - Created a new column (CTRL + Shift + Plus) and used '=LOWER' to convert text to lowercase.
@@ -33,7 +33,7 @@ This dataset started with numerous errors, necessitating a transformation into a
        - Deleted the old column (CTRL + Minus).
    - **Result:** Improved readability by transforming all text to lowercase.
 
-#### 8. Trim & Proper
+#### 5. Trim & Proper
    - **Problem:** Odd spacing and capitalization
    - **Solution:**
      - Created a new column (CTRL + Shift + Plus).
@@ -45,39 +45,39 @@ This dataset started with numerous errors, necessitating a transformation into a
        - Deleted the old column (CTRL + Minus).
    - **Result:** Ensured uniformity and coherence in the dataset.
 
-#### 10. Text to Columns
+#### 6. Text to Columns
    - **Problem:** Too much info in one column (department and state).
    - **Solution:**
      - Created a new column (CTRL + Shift + Plus) named Region.
      - Used Text to Columns to separate department and state information.
    - **Result:** Enhanced data organization by splitting information into distinct columns.
 
-#### 14. Removing Duplicates
+#### 7. Removing Duplicates
    - **Problem:** Too many duplicate values
    - **Solution:**
      - Removed duplicate values by selecting all (CTRL + A) and using Remove Duplicates.
    - **Result:** Streamlined the dataset by mitigating redundancy.
 
-#### 16. Filling Empty Cells
-   - **Problem:** Blank rows
+#### 7. Filling Empty Cells
+   - **Problem:** Blank rows or missing info
    - **Solution:**
      - Selected the entire table (CTRL + A).
-     - Used "Go to Special" to select blanks and filled them with 'NA' (CTRL + ENTER).
-   - **Result:** Alleviated blank rows, ensuring data completeness.
+     - Used Find & Select, "Go to Special" to select blanks (or CTRL + G, choose Speacial, check on Blanks) and filled them with 'NA' (CTRL + ENTER).
+   - **Result:** Filled empty cells with 'NA,' ensuring a more comprehensive dataset by addressing missing values and maintaining data integrity..
 
-#### 18. IFERROR
+#### 8. IFERROR
    - **Problem:** 'NA' errors in the Profit Margin column.
    - **Solution:**
      - Used '=IFERROR' to handle 'NA' errors in the Profit Margin column.
    - **Result:** Prevented disruptions in calculations caused by 'NA' errors.
 
-#### 20. Formatting
+#### 9. Formatting
    - **Format Headers and Rows:**
      - Highlighted headers (CTRL + SHIFT + Right) and made them bold (CTRL + B).
      - Changed colors using theme colors under Home.
    - **Result:** Enhanced visual appeal for improved presentation.
 
-#### 22. Gridlines
+#### 10. Gridlines
    - **Problem:** Distracting grid lines
    - **Solution:**
      - Unchecked Gridlines in View (or Alt + W + V + G).
