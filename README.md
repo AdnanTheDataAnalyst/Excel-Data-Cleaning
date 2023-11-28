@@ -18,13 +18,21 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
            - To remove anything with the parathensis, type (*)
            - Hith Replace All. Hit ok, then hit close
    6. Lower & Upper
-   7. Trim & Proper
-   8. Text to Columns
-   9. Removing Duplicates
-   10. Filling Empty Cells
-   11. IFERROR
-   12. Formatting
-   13. Gridlines
+      - Problem: All text is Upper case which makes it hard to read
+      - Solution:
+           - Create new column by hitiing CTRL + Shift + Plus
+           - Use this function '=LOWER', Then click on the cell you want to convert
+           - To make changes on all rows in the same column, double click to drag down all the way to the buttom.
+           - Before you delete the old column
+                -First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
+                - Go to paste and choose paste it as a value
+   8. Trim & Proper
+   9. Text to Columns
+   10. Removing Duplicates
+   11. Filling Empty Cells
+   12. IFERROR
+   13. Formatting
+   14. Gridlines
 
 1. **Data Used:** Sales and inventory records
 2. **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
