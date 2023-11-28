@@ -9,8 +9,8 @@
 ### Data Cleaning and Transformation:
 This is a raw dataset that has several errors, to a clean dataset that I need to present to my team. For this, I use the following steps such as text to columns and remove dupilcates, and several formulas such as the trim, proper, lower,  iferror and more. 
    1. Autofit Rows and Columns
-      Problem: Long rows
-      Solution: Hit CTR + A, Go to Format and hit Autofit Row Height (or Use this ShortCut Alt + H + O + I) and Auto Fit Column Width (or Use this ShortCut Alt + H + O + A)
+      - Problem: Long rows
+      - Solution: Hit CTR + A, Go to Format and hit Autofit Row Height (or Use this ShortCut Alt + H + O + I) and Auto Fit Column Width (or Use this ShortCut Alt + H + O + 
    3. Find & Replace
    4. Lower & Upper
    5. Trim & Proper
