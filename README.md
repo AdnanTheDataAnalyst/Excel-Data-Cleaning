@@ -24,7 +24,7 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
            - Use this function '=LOWER', Then click on the cell you want to convert
            - To make changes on all rows in the same column, double click to drag down all the way to the buttom.
            - Before you delete the old column
-                -First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
+                - First click on the comlumn you converted and click CTRL Shift Down and then CTRL C
                 - Go to paste and choose paste it as a value
    8. Trim & Proper
    9. Text to Columns
