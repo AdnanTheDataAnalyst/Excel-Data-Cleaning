@@ -12,14 +12,16 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
       - Problem: Long rows
       - Solution: Hit CTR + A, Go to Format and hit Autofit Row Height (or Use this ShortCut Alt + H + O + I) and Auto Fit Column Width (or Use this ShortCut Alt + H + O + 
    3. Find & Replace
-   4. Lower & Upper
-   5. Trim & Proper
-   6. Text to Columns
-   7. Removing Duplicates
-   8. Filling Empty Cells
-   9. IFERROR
-   10. Formatting
-   11. Gridlines
+   - Problem: Unnesscssay Info
+   - Solution: Remove unnessacay info with parathesis by selection the whole column and then going to Find & Select and choosing Replace tool (or Use this ShortCut CTRL + H). To Remove anything with the parathensis, type (*) and hith Replace All
+   6. Lower & Upper
+   7. Trim & Proper
+   8. Text to Columns
+   9. Removing Duplicates
+   10. Filling Empty Cells
+   11. IFERROR
+   12. Formatting
+   13. Gridlines
 
 1. **Data Used:** Sales and inventory records
 2. **Problem:** Inconsistent data formats and missing values affecting analysis accuracy.
