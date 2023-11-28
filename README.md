@@ -13,7 +13,7 @@ This is a raw dataset that has several errors, to a clean dataset that I need to
       - Solution: Hit CTR + A, Go to Format and hit Autofit Row Height (or Use this ShortCut Alt + H + O + I) and Auto Fit Column Width (or Use this ShortCut Alt + H + O + 
    3. Find & Replace
       - Problem: Unnesscssay Info
-      - Solution: Remove unnessacay info with parathesis by selection the whole column and then going to Find & Select and choosing Replace tool (or Use this ShortCut CTRL + H). To Remove anything with the parathensis, type (*) and hith Replace All
+      - Solution: Remove unnessacay info with parathesis by selection the whole column and then going to Find & Select and choosing Replace tool (or Use this ShortCut CTRL + H). To remove anything with the parathensis, type (*) and hith Replace All
    6. Lower & Upper
    7. Trim & Proper
    8. Text to Columns
