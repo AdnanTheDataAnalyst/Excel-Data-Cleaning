@@ -14,14 +14,14 @@ This dataset started with numerous errors, necessitating a transformation into a
    - **Problem:** Long rows
    - **Solution:** 
      - Selected all (CTRL + A), went to Format, and chose Autofit Row Height (Alt + H + O + I) for rows and Autofit Column Width (Alt + H + O + C) for columns.
-   - **Result:** Resolved long rows, significantly enhancing overall readability.
+     - Result: Resolved long rows, significantly enhancing overall readability.
 
 #### 3. Find & Replace
    - **Problem:** Unnecessary Info
    - **Solution:**
      - Removed unnecessary info within parentheses by selecting the whole column, using Find & Select, and employing the Replace tool (CTRL + H).
      - Typed (*) to remove anything within parentheses, clicked Replace All, then closed.
-   - **Result:** Enhanced data clarity by eliminating unnecessary information.
+     - Result: Enhanced data clarity by eliminating unnecessary information.
 
 #### 4. Lower
    - **Problem:** All text is Uppercase, making it hard to read
