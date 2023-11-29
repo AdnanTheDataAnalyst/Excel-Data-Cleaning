@@ -40,7 +40,11 @@ This dataset started with numerous errors, necessitating a transformation into a
    - **Problem:** Too much info in one column (department and state).
    - **Solution:**
      - Created a new column (CTRL + Shift + Plus) named Region.
+     - Highlighted all rows I want to sparate.
+     - Went to Data
      - Used Text to Columns to separate department and state information.
+     - Clicked Next on the first prompt.
+     - In the second prompt, I put underscore (_) and clicked finish.
    - **Result:** Enhanced data organization by splitting information into distinct columns.
 
 #### 7. Removing Duplicates
