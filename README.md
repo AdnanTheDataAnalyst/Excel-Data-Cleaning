@@ -1,6 +1,6 @@
 # Data Cleaning and Transformation:
 
-This dataset includes financial transactions by various clients, including client details, contact persons, departments, regions, payment methods, revenue, profit, and profit margin. **However**, it had numerous errors. To present accurate information to my team, I undertook a transformation process, addressing specific issues and refining the dataset for clarity and precision.
+This dataset includes financial transactions by various clients, including client details, contact persons, departments, regions, payment methods, revenue, profit, and profit margin. **However**, I contacted a data cleaning process to ensure accurate information presentation to my team, addressing specific issues and refining the dataset for clarity and precision.
 
 #### 1. Autofit Rows and Columns
    - **Problem:** Long rows
