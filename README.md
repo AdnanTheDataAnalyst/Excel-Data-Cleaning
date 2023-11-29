@@ -62,8 +62,9 @@ This dataset started with numerous errors, necessitating a transformation into a
 
 #### 8. IFERROR
    - **Problem:** 'NA' errors in the Profit Margin column.
-   - **Solution:**
-     - Used '=IFERROR' to handle 'NA' errors in the Profit Margin column.
+      - In the cell, type =IFERROR(put the cells you want to divde and put coma.
+      - After coma, type inside double quatation marks "NA".
+      - For example, the formula would be =IFERROR(M4/N4,"NA")and hit CTRL ENTER.
    - **Result:** Prevented disruptions in calculations caused by 'NA' errors.
 
 #### 9. Formatting
