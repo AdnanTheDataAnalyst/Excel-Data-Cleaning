@@ -1,5 +1,6 @@
 # Data Cleaning and Transformation:
-This dataset has numerous errors, necessitating a transformation into a clean format for presentation to my team. The following steps were undertaken, each addressing specific issues and culminating in a refined dataset:
+
+This dataset includes financial transactions by various clients, including client details, contact persons, departments, regions, payment methods, revenue, profit, and profit margin. **However**, it had numerous errors. To present accurate information to my team, I undertook a transformation process, addressing specific issues and refining the dataset for clarity and precision.
 
 #### 1. Autofit Rows and Columns
    - **Problem:** Long rows
