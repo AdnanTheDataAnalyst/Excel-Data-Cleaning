@@ -13,7 +13,7 @@ This dataset includes financial transactions by various clients, including clien
    - **Solution:**
      - Removed unnecessary info within parentheses by selecting the whole column, using Find & Select, and employing the Replace tool (CTRL + H).
      - Typed (*) to remove anything within parentheses, clicked Replace All, then closed.
-     - Result: Enhanced data clarity by eliminating unnecessary information.
+   -**Result**: Enhanced data clarity by eliminating unnecessary information.
 
 #### 4. Lower
    - **Problem:** All text is Uppercase, making it hard to read
