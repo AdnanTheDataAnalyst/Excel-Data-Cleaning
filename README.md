@@ -8,14 +8,14 @@ This dataset includes financial transactions by various clients, including clien
      - Selected all (CTRL + A), went to Format, and chose Autofit Row Height (Alt + H + O + I) for rows and Autofit Column Width (Alt + H + O + C) for columns.
    - **Result**: Resolved long rows, significantly enhancing overall readability.
 
-#### 3. Find & Replace
+#### 2. Find & Replace
    - **Problem:** Unnecessary Info
    - **Solution:**
      - Removed unnecessary info within parentheses by selecting the whole column, using Find & Select, and employing the Replace tool (CTRL + H).
      - Typed (*) to remove anything within parentheses, clicked Replace All, then closed.
    -**Result**: Enhanced data clarity by eliminating unnecessary information.
 
-#### 4. Lower
+#### 3. Lower
    - **Problem:** All text is Uppercase, making it hard to read
    - **Solution:**
      - Created a new column (CTRL + Shift + Plus) and used '=LOWER' to convert text to lowercase.
@@ -25,7 +25,7 @@ This dataset includes financial transactions by various clients, including clien
        - Deleted the old column (CTRL + Minus).
    - **Result:** Improved readability by transforming all text to lowercase.
 
-#### 5. Trim & Proper
+#### 4. Trim & Proper
    - **Problem:** Odd spacing and capitalization
    - **Solution:**
      - Created a new column (CTRL + Shift + Plus).
@@ -37,7 +37,7 @@ This dataset includes financial transactions by various clients, including clien
        - Deleted the old column (CTRL + Minus).
    - **Result:** Ensured uniformity and coherence in the dataset.
 
-#### 6. Text to Columns
+#### 5. Text to Columns
    - **Problem:** Too much info in one column (department and state).
    - **Solution:**
      - Created a new column (CTRL + Shift + Plus) named Region.
@@ -48,7 +48,7 @@ This dataset includes financial transactions by various clients, including clien
      - In the second prompt, I put underscore (_) and clicked finish.
    - **Result:** Enhanced data organization by splitting information into distinct columns.
 
-#### 7. Removing Duplicates
+#### 6. Removing Duplicates
    - **Problem:** Too many duplicate values
    - **Solution:**
      - Removed duplicate values by selecting all (CTRL + A) and using Remove Duplicates.
